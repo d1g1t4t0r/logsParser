@@ -1,6 +1,6 @@
 import sys
 import io
-from re import match, search, IGNORECASE
+from re import search
 from os import listdir
 from os.path import isfile, join, exists
 
